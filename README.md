@@ -9,7 +9,7 @@ The objective of this project was to design, execute, and document test cases th
 ## 🛠 Tools & Technologies    
 -  Testing Type : Manual Testing    
 -  Documentation : Microsoft Excel (Test Scenarios & Test Cases)    
--  Application Under Test (AUT)**: [OpenCart Demo Website](https://demo.opencart.com)    
+-  Application Under Test (AUT) : [OpenCart Demo Website](https://demo.opencart.com)    
     
     
 ## ✅ Project Scope    
