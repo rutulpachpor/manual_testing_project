@@ -1,4 +1,4 @@
-# Manual Testing Project – OpenCart E-commerce Application    
+# Manual Testing Project – OpenCart E-commerce Application     
     
 ## 📌 Project Overview    
 This project focuses on manual testing of the "OpenCart" Demo web application.      
